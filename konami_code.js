@@ -6,4 +6,5 @@ function init() {
 document.body.addEventListener("keydown", init)
 function init (){
   debugger;
+  let key= event.which;
 }
